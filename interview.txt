@@ -1,0 +1,360 @@
+
+Batch-40
+What is API gateway and its limitation?
+What is EKS and how we can define workloads and spin up the pods.
+What is proxy and reverse proxy.
+What are the approaches for cost optimization?
+What is the difference between merge and rebase?
+How do you resolve merge conflicts?
+How many subnets required for the EKS Cluster deployment
+
+How to provide s3 bucket access available in another AWS account.
+
+How to provide another account access to users from an account.
+
+BAtch-39
+
+NAme - Mahesh Sawarkar
+Company - RT Computer 
+Role - 8 years of Experience as a System Engineer 
+
+
+
+Question 
+
+Batch-36
+
+Name :- Paramveer
+Company Name :- INfosys client round
+Role : AWS Devops 3 years
+
+
+Q How to limit Docker Volume limit  
+--opt o=size=100m
+
+Q How to mount drive / folder in linux
+https://www.wikihow.com/Linux-How-to-Mount-Drive
+
+How to Automate Docker Creation & Delation’s   
+May be k8’s or write a python 
+
+
+
+Batch-31
+
+Name :- Vinay Kumar Bathini
+Company Name :- Accenture
+Role : AWS Devops 4 years
+
+
+1. Tell me about yourself
+AWS
+2. AWS s3 if you want to send the data b/w two s3 buckets which are in different aws account?
+3. What configurations are required to do this in s3 buckets?(cross-account)
+4. What is the cross account policy?
+5. How can automatically upload the file to s3 bucket using lambda function? 
+6. From AWS service do you use ECS in project
+7. what is difference between ecs and fargate
+8. What is the use of fargate in your project
+9. What is task definition in ecs?
+10. If you enable asg to ecs what will be first launched when one agent goes down?
+11. Can we run multiple applications on fargate?
+12. What is the use of lambda?
+13. How do integrate an fargate present in private subnet with cloudwatch?
+14. What is the use of cloudwatch?
+15. How do you secure an ec2 instance?
+16. How do you expose your application using application load balancer connected to an ec2 instance?
+17. If the application was not reachable how do you troubleshoot it?
+18 If you have uploaded the file into s3 and want to remove it automatically after 30 days what you will do?
+19. What you will do if the cpu utilisation if more than 80% in your company?
+20. Scenario : if your pulling an image from ecr using ecs the image is present in ecr but unable to pull the image how do you troubleshoot this
+
+Terraform:
+21. What are modules, how did you used in your project code?
+
+Kubernetes:
+22. Explain kubernetes architecture?
+23. What is etcd?
+24. In which format the logs are stored in etcd?
+25. How do you deploy the pod in a particular worker node?
+26. difference b/w replicaset & deployment?
+27. what is deamonset in kubernetes?
+28. what is  affinity?
+
+Docker :
+
+29. In docker  file what is the difference b/w entrypoint & CMD & Run?
+30. I want create an image for python how do you do with dockerfile?
+
+Jenkins:
+
+31.
+32.
+33. Which setting you will give in jenkins to automatically the trigger the pipeline?
+34. explain me how jenkins runs in the backend when this pipeline is triggered?
+35. how do u set the environment to deploy this pipeline in qa what configurations u will do in jenkins?
+Sonarqube:
+36. How do you check the codequality?
+37. What is code coverage report in sonarqube?
+Total time : 43mins
+
+
+Name :- Vinay Kumar Bathini
+Company Name :- CGI
+Role : AWS Devops 4 years
+
+Questions:-
+
+What are the aws services you are using in your project?
+1. What is VPC and where we will use it?
+2.What is Ec2 instance and where your using in your project?
+3
+4. User has developed the code in GitHub and he need to deploy the code using pipeline and write the code?
+5.In the git clone how do we login with the credentials, where we need to give the credentials to login?
+6.What are your day-to-day activities in the project and what you will do?
+7.What are your CI/CD activities?
+8. what is the use of subnets in vpc where you will use in your project?
+9. Which aws resources will be using VPC in your project?
+10. How did you create vpc using IAC code?
+
+Batch-34
+i
+Name :-  Hemant Sharma	
+Company Name :- Amdocs
+Role :- DevOps Engineer 4 years 
+Question
+
+
+
+
+Difference between STS and Deployment.
+Explain VPC.
+
+
+Difference between VMs and Containers.
+Why do we use namespace in Kubernetes ?
+What are the components inside a control plane ?
+What is the difference between a User and a Role ?
+How to configure LB’s In the CLI ?
+Explain about the real life example of a deployment. 
+
+Batch-33 
+
+Name :-  Devanshu	
+Company Name :- Pasarpolis
+Role :- DevOps Engineer 4 years 
+Question 
+
+
+
+Batch 32
+
+Name :-  Prateek	
+Company Name :- Brigh
+Role :- DevOps Engineer 5+ years 
+Question 
+
+
+
+Batch 30
+
+Name :-  Anita	
+Company Name :- ABC
+Role :- DevOps Engineer 2.5+ years 
+Question 
+
+
+Batch 29
+
+Name :-  Summet	
+Company Name :- ABC
+Role :- DevOps Engineer 2.5+ years 
+Question 
+
+
+
+Latest 2023 Realtime your's DevOps interview Questions 
+
+Please do not copy paste from internet 
+Share  it it will be helpful for other students 
+
+Batch 27
+
+Name :-  Partha	
+Company Name :- Sigmoid
+Role :- DevOps Engineer 2.5+ years 
+Questions :- 
+Handling Release and Branching activities
+Docker image use cases
+Pipeline - diff declarative vs scripted (and implementation)
+Branching strategy
+
+
+Batch 27
+
+Name :-  Ajmal	
+Company Name :- Viitorcloud
+Role :- DevOps Engineer 3 years 
+Questions :- 
+
+
+Name :-  Ravi	
+Company Name :- Viitorcloud
+Role :- DevOps Engineer
+Questions :- What is difference between Stateful and Stateless Kubernetes Application?
+
+
+
+Batch 25 
+
+Name :-  Shubhanshu Trivedi
+Company Name :- Sophos
+Role :- Cloud Infrastructure Service Engineer
+Questions :- 
+How to configure Route 53?
+How to write the S3 Bucket JSON Policies?
+Can we merge the Personal AWS account into the Professional AWS account?
+Auto Scaling concept in AWS?
+ALB & NLB LoadBalancer?
+
+Name - Ankit Sharma
+Company Name - PAYTM
+Role - Software Engineer - DevOps
+
+Interview Questions -
+
+Linux Related
+         =>grep, 
+        =>free -h, 
+=>how we can see that disk file system in Linux, =>Booting Process, 
+=>Kernel, 
+=>Shell,
+=>How to make any user as a root user
+If Master M/C fails in K8 than what will happens?
+How to create Kubernetes cluster in Virtual Machine other than AWS and GCP.
+Swapping programme in Java
+Sql —>> -> How to create table, -> How to update table, -> If we want to find a some one’s age between 25 to 50. What is the query for that
+
+
+What is git and why we use this.
+
+Name :-  Shubhanshu Trivedi
+Company Name :- Innovaccer
+Role :- SRE
+Questions :-
+1- Docker Commit
+2- what is the difference between guid and uuid
+3- What is kubernetes egress
+4- Nodeport/ClusterIP/Loadbalancer/ExternalName in kubernetes
+5- What’s the difference modules and resources in the terraform
+6- Explanation of main.tf , output.tf, providers.tf, variables.tf, versions.tf
+7-What is NAT gateways
+8-Name all the database including the port number in the AWS RDS
+9- 
+12- Terraform backend
+13- Sentinel in terraform
+
+Batch 26
+
+Name :-  Shashank Nandihalli
+Company Name :- elabsinfotech, Client: Mindtree
+Role :- Azure Administrator Cloud
+Questions :- 
+Most of the questions were based on Microsoft Azure Services
+1.What are some examples of PAAS services.
+2.Explain about Azure Subscriptions
+3.What are Availability sets and VM Scalesets?
+4.Difference between Availability sets and VM Scalesets.
+5.What is a Resource Group?
+6.How to create an Azure Virtual machine?
+7.What will be the default Configuration of Virtual machine into the production environment.
+8.
+9.Incident management & problem management
+10.What is Azure Resource Manager & ARM Templates.
+11. Heard about Azure Virtual network (Vnets) ,  Why do we use Vnets in Azure?
+12. What do you know about NSG’s ( Network Security groups)
+13.Explain about Azure Storage services.
+14.Overview of Azure DevOps.
+15.(RBAC) Role-Based access Control in k8s
+16. Azure Policy
+17. Any idea about Azure Functions?
+18. Familiar about Azure Logi
+
+
+c apps?
+
+Name :-  Shashank Nandihalli
+Company Name :- Euromoney PLC, London, United Kingdom
+Role :- DevOps Engineer
+Questions and Discussions on :- 
+1. Strong BASH/SHELL scripting and good experience in Linux environments.
+2.Strong experience working in AWS environment.
+3.CI-CD pipelines
+4.AWS Cloudformation - IaC i.e. also Terraform.
+5.VPCs & Networking knowledge, Subnetting.
+6.Scaling groups in AWS.
+7.helping developers with the AWS CDKs
+8.What are Sandbox accounts ?
+9.Kubernetes with AWS EKS & ECS.
+10.Monitoring tools used by me in current org, also about Datadog Monitoring tool.
+11.Some of the legacy servers with Apache Tomcat server and Windows should be able to migrate them to Linux and upgrade after confirmation.
+12.Also, a way to automate almost everything possible.
+
+Batch 25
+Name: harshitha
+Company:qburst
+How to mount filesystem permenantly?
+How to execute shell scrip in the background?
+How to run the shell scripts In front end? & BAckent ?
+ How to give executable permission? 
+How to  configure cron job every second? 
+How to troubleshoot the issue : in Linux, there is a memory full and particular service as occupied a complete memory when u see in ps command.  How to troubleshoot this issue?
+When deploying application on ec2 instance,  ec2 crashes. How to deal with that situation?                  
+How the Ec2 instance and database communicate with each other?
+ How the Jenkins and Docker/ansible server communicate
+How do you build the docker image?
+ Why the docker hub is used...why not images be stored in AWS environment
+Is the docker hub private or public?
+How the container are created?
+
+
+
+
+Name :-  Mohammad Israrul Haque — Batch 40
+Company Name :- Knovator
+Role :- DevOps Engineer
+
+Knovator technical interview task for DevOps
+Welcome to your Test Task!
+
+The task will have three stages and each stage is as we have mentioned below.
+
+Step 1
+1. Dockerize NodeJs & ReactJS application (must be multi-stage & lightweight docker image).
+Setup it on Linux System Expose it via Nginx reverse proxy
+Detail
+1. The system for the same will be Ubuntu OS 20.04
+
+Step 2
+2. Design a GitLab CI/CD pipeline to deploy securely on the server via a self-hosted runner. (VM
+based)
+
+Step 3
+Plan to host a Distributed setup of a Laravel Application, where the component is Web Server, PHP-FPM, Redis, MySQL, ElasticSearch
+a. Planned design must be Secure, Scalable & Cost Effective.
+
+Note: Please share the Script file via email at hr@knovator.com.
+
+
+Aniruddha Kulkarni Batch-40 👍
+
+How to connect EC2 instances to my personal laptop without allowing any public permissions.
+VPN
+
+Raghava Reddy Batch-40
+
+In S3 created a Bucket & uploaded some files in that Bucket. By Default one file has been deleted by yourself or some of your team members. Is it possible to recover that File or Not. If possible, how?
+      
+What is the difference between hard link and soft link?
+
+A critical production server is running out of disk space. How would you identify which directories or files are consuming the most space, and what steps would you take to free up space?
